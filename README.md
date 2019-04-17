@@ -1,6 +1,7 @@
-# Introduction-to-probability-and-Statistics
+# Introduction-to-probability-and-Statistics (NPTEL video Link)
 This course is aimed at being a pre term or a preparatory course for probability and statistics. It is very basic and introduces the students to the understanding of data and measuring associations. It also introduces the concepts of probability and distibutions.
 
+https://nptel.ac.in/courses/111106112/1
 https://nptel.ac.in/noc/individual_course.php?id=noc18-ma07
 
 COURSE LAYOUT:
